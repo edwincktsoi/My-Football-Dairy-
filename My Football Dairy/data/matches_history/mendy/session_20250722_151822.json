@@ -1,0 +1,19 @@
+{
+    "session_info": {
+        "game_type": "Match",
+        "formation": "4-4-2",
+        "position": "LM",
+        "role": "Winger",
+        "date": "2025-07-22",
+        "time": "15:18:22"
+    },
+    "stats": {
+        "goals": 0,
+        "assists": 0,
+        "shots_on_target": 0,
+        "shots_off_target": 0,
+        "total_xg": 0,
+        "total_xa": 0
+    },
+    "events": []
+}

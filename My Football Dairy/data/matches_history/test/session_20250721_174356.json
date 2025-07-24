@@ -1,0 +1,35 @@
+{
+    "session_info": {
+        "game_type": "Match",
+        "position": "Striker",
+        "date": "2025-07-21",
+        "time": "17:43:56",
+        "note": "",
+        "time_played": "",
+        "performance_rating": 5.0
+    },
+    "stats": {
+        "goals": 0,
+        "assists": 0,
+        "shots_on_target": 1,
+        "shots_off_target": 0,
+        "total_shots": 1,
+        "calculated_xg": 0.0007558412127191063,
+        "calculated_xa": 0
+    },
+    "events": [
+        {
+            "rel_pos": [
+                0.846820809248555,
+                0.7639141205615194
+            ],
+            "rel_end_pos": [
+                0.5982658959537572,
+                0.13875584916047365
+            ],
+            "type": "shot_on",
+            "xg": 0.0007558412127191063,
+            "xa": 0.01171890694530663
+        }
+    ]
+}
